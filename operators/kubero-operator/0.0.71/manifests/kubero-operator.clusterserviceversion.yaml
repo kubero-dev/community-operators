@@ -532,3 +532,4 @@ spec:
     name: kubero
     url: https://github.com/kubero-dev/
   version: 0.0.71
+  replaces: kubero-operator.v0.0.70
